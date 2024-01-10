@@ -1,5 +1,3 @@
-To create maven pipeline job, make sure maven is installed, set its environment variable and set up global tool configuration
-
 pipeline {
     agent any
     environment {
